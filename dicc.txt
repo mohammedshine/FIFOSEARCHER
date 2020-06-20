@@ -1,3 +1,6 @@
+-t_user
+test_login
+testadmin
 wordpress
 !.gitignore
 !.htaccess
